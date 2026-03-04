@@ -6,25 +6,25 @@ layout: home
 # Project Update 1
 
 
-## Target learning audience outlien 
+## Target learning audience outline
   - NYU Students
   - Wasserman Center
 
 
-**An identified learning need** (with references or personal experiences)
-  - Self Confidence
+## An identified learning need 
+  - **Self Confidence**
     - Clear practices
     - Manage network anxiety through practice
-  - Learning how to hold conversations that are efficient
-  - Craft clear and structured networking messages
-  - Initiate and sustain professional conversations
+  - **Learning how to hold conversations that are efficient**
+  - **Craft clear and structured networking messages**
+  - **Initiate and sustain professional conversations**
     - Knowing how to ask questions
     - Having a prepared answer template
       - People know that they need to prepare, but knowing how to do that is the first step.
       - Why are you interested in said jobs
 
 
-**A rationale for how we imagine AI may assist this learning need**
+## A rationale for how we imagine AI may assist this learning need
   - With the help of AI, it can help boost confidence as well as solve some accessibility issues.
   - There are no stakes involved when using AI practice which can add to an individual's practice to learning how to effectively communicate.
   - Especially for people that may not be speaking English as a first language.
