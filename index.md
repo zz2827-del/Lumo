@@ -37,7 +37,5 @@ layout: home
 
 > We imagine AI can directly support this need by acting as a personalized, always-available coaching partner: it can simulate networking scenarios, provide feedback on tone and clarity, help students draft and refine outreach messages, and offer practice prompts and answer templates that build confidence over time. Because AI practice is private and “no-stakes,” it can lower the barrier to repetition, while also improving accessibility for students who may be less comfortable speaking English as a first language and benefit from individualized scaffolding and language support.
 
-
-
-
-[^1]: Team Contribution: Each group member contributed to adding insights and notes to our outline.
+Group Contribution:
+[^1]:  Each group member contributed to adding insights and notes to our outline.
