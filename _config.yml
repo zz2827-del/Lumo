@@ -1,6 +1,9 @@
 title: LUMO
 description: Experience Design & AI Class Project
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 url: https://just-the-docs.github.io
 
