@@ -6,11 +6,12 @@ layout: home
 # Project Update 1
 
 
-- **Target learning audience outlien **
+## Target learning audience outlien 
   - NYU Students
   - Wasserman Center
 
-- **An identified learning need** (with references or personal experiences)
+
+**An identified learning need** (with references or personal experiences)
   - Self Confidence
     - Clear practices
     - Manage network anxiety through practice
@@ -22,7 +23,8 @@ layout: home
       - People know that they need to prepare, but knowing how to do that is the first step.
       - Why are you interested in said jobs
 
-- **A rationale for how we imagine AI may assist this learning need**
+
+**A rationale for how we imagine AI may assist this learning need**
   - With the help of AI, it can help boost confidence as well as solve some accessibility issues.
   - There are no stakes involved when using AI practice which can add to an individual's practice to learning how to effectively communicate.
   - Especially for people that may not be speaking English as a first language.
@@ -36,6 +38,6 @@ layout: home
 > We imagine AI can directly support this need by acting as a personalized, always-available coaching partner: it can simulate networking scenarios, provide feedback on tone and clarity, help students draft and refine outreach messages, and offer practice prompts and answer templates that build confidence over time. Because AI practice is private and “no-stakes,” it can lower the barrier to repetition, while also improving accessibility for students who may be less comfortable speaking English as a first language and benefit from individualized scaffolding and language support.
 
 
-- Contribution of each group member[^1]
 
-[^1]: Each group member contributed to adding insights and notes to our outline.
+
+[^1]: Team Contribution: Each group member contributed to adding insights and notes to our outline.
