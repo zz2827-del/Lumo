@@ -5,7 +5,7 @@ layout: home
 # LUMO Home
 
 
-<details>
+<details markdown="1">
   <summary><b> 1st Project Update 1</b> </summary>
 
 ## Target learning audience outline
@@ -47,7 +47,7 @@ layout: home
 
 <br>
 
-<details>
+<details markdown="1">
   <summary><b> Group Deliverable 1</b> </summary>
 
 ## 1.1 Problem Statement
@@ -55,7 +55,7 @@ layout: home
 
 **Project Title:** AI-Powered Research Paper Summarization Through Poetry
 
-**Target Learning Audience:**<br>
+**Target Learning Audience:**
 Undergraduate and graduate students, early-career researchers, and lifelong learners who struggle with engaging with dense academic texts.
 
 **Identified Learning Need:**<br>
